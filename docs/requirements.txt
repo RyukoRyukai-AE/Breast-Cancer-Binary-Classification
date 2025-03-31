@@ -1,3 +1,9 @@
 tensorflow
 matplotlib
 pillow
+perf
+pyperf
+datasets
+transformers
+torch 
+torchvision
